@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Overview}{1}{section.2}%
+\contentsline {section}{\numberline {3}Circuit Design}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}A. DC Bias Network}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}B. Microphone Input Network}{1}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}C. Tank Circuit}{2}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Barkhausen Criterion}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}A. Phase Condition}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}B. Gain Condition}{2}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Simulation}{2}{section.5}%
+\contentsline {subsection}{\numberline {5.1}A. SPICE Netlist}{2}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}B. Expected Waveforms}{2}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}C. Practical Waveforms}{2}{subsection.5.3}%
+\contentsline {section}{\numberline {6}FM Modulation Mechanism}{2}{section.6}%
+\contentsline {section}{\numberline {7}Output and Antenna Coupling}{3}{section.7}%
+\contentsline {section}{\numberline {8}Results Summary}{3}{section.8}%
+\contentsline {section}{\numberline {9}Observations}{3}{section.9}%
+\contentsline {section}{\numberline {10}Conclusion}{3}{section.10}%
+\contentsline {section}{\numberline {11}Circuit Diagram}{3}{section.11}%
